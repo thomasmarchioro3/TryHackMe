@@ -140,7 +140,7 @@ We are then able to use commands such as `ls` or `pwd`
 
 
 ```
-listening on [any] 5555 ...
+listening on [any] 9966 ...
 connect to [OUR_IP] from (UNKNOWN) [TARGET_IP] 46926
 $ ls
 ls
